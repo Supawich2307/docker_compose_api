@@ -1,6 +1,6 @@
 node{
     stage("SCM") {
-        git branch: "master", url: "https://github.com/kartheekgottipati/Docker-compose-flask-redis-deploy.git"
+        git branch: "master", url: "https://github.com/Supawich2307/docker_compose_api.git"
     }
     stage('Run'){
         step([$class: 'DockerComposeBuilder', 
