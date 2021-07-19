@@ -3,4 +3,4 @@
 cd ~/../..
 cd /usr/local/bin/
 pwd
-docker-compose --version
+docker-compose.exe --version
