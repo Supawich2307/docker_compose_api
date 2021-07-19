@@ -1,3 +1,4 @@
 #!/bin/bash
 
-/usr/local/bin/docker-compose up -d
+pwd
+docker-compose up -d
