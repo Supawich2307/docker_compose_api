@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd ~
+cd ~/../..
 cd /usr/local/bin/
 docker-compose --version
