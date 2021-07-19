@@ -1,4 +1,5 @@
 #!/bin/bash
 
-pwd
+cd ~
+cd /usr/local/bin/
 docker-compose --version
