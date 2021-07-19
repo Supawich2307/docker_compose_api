@@ -1,4 +1,4 @@
 #!/bin/bash
 
 pwd
-docker-compose up -d
+docker-compose --version
